@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Code.iml" filepath="$PROJECT_DIR$/.idea/Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.autovend.demo/com.autovend.demo.iml" filepath="$PROJECT_DIR$/com.autovend.demo/com.autovend.demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.autovend.hardware_0.3.4/com.autovend.hardware_0.3.4.iml" filepath="$PROJECT_DIR$/com.autovend.hardware_0.3.4/com.autovend.hardware_0.3.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.autovend.software/com.autovend.software.iml" filepath="$PROJECT_DIR$/com.autovend.software/com.autovend.software.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.autovend.software.test/com.autovend.software.test.iml" filepath="$PROJECT_DIR$/com.autovend.software.test/com.autovend.software.test.iml" />
+    </modules>
+  </component>
+</project>

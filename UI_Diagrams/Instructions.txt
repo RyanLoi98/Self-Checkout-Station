@@ -1,0 +1,2 @@
+The UI Diagrams are Initial Ideas. They might be missing some functionalities and can be added onto. The diagrams contain instructions on where to proceed on button clicks, meaning which page we should move to.
+There are diagrams including both virtual keyboards and no virtual keyboards. One of these designs will be chosen for the use cases that concern virtual keyboards.

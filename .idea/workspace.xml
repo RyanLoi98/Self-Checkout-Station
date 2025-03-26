@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfbc25f6-3565-4ca4-9d4f-8f179de3bb8e" name="Changes" comment="added more buttons for third test case" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2OL9aZtbOBdLENkOXgCF6m9UhqS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Git.Branch.Popup.ShowAllRemotes": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/ryan/Desktop/Self-checkout",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.demoEnv">
+    <configuration name="CustomerIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.autovend.software.CustomerIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.autovend.software.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demoEnv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.autovend.demo.demoEnv" />
+      <module name="com.autovend.demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.autovend.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AllTogetherTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.autovend.software.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.autovend.software.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.autovend.software.test" />
+      <option name="MAIN_CLASS_NAME" value="com.autovend.software.test.AllTogetherTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.demoEnv" />
+        <item itemvalue="JUnit.AllTogetherTest" />
+        <item itemvalue="Application.CustomerIO" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfbc25f6-3565-4ca4-9d4f-8f179de3bb8e" name="Changes" comment="" />
+      <created>1681329059520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681329059520</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added addownbagbutton and bagitemsdonebutton">
+      <created>1681331688871</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681331688871</updated>
+    </task>
+    <task id="LOCAL-00002" summary="made all of the panel buttons private variables and then added getters for testing">
+      <created>1681335356617</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681335356617</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added getter for a button">
+      <created>1681335389790</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681335389790</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added buttons for testing, created 2 hardware sim panels for the 2 customers.">
+      <created>1681335419107</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681335419107</updated>
+    </task>
+    <task id="LOCAL-00005" summary="made payment class buttons all fields then added getters for testing">
+      <created>1681337168984</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681337168984</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added more buttons">
+      <created>1681339155245</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681339155245</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added get payment and use credit card buttons for first test case">
+      <created>1681339550186</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681339550186</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added keep scanning button for second test case">
+      <created>1681339674960</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681339674960</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added more buttons for third test case">
+      <created>1681340320298</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1681340320298</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added addownbagbutton and bagitemsdonebutton" />
+    <MESSAGE value="made all of the panel buttons private variables and then added getters for testing" />
+    <MESSAGE value="added getter for a button" />
+    <MESSAGE value="added buttons for testing, created 2 hardware sim panels for the 2 customers." />
+    <MESSAGE value="made payment class buttons all fields then added getters for testing" />
+    <MESSAGE value="added more buttons" />
+    <MESSAGE value="added get payment and use credit card buttons for first test case" />
+    <MESSAGE value="added keep scanning button for second test case" />
+    <MESSAGE value="added more buttons for third test case" />
+    <option name="LAST_COMMIT_MESSAGE" value="added more buttons for third test case" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Code$AllTogetherTest.ic" NAME="AllTogetherTest Coverage Results" MODIFIED="1681330174665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.autovend.software.test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
