@@ -1,4 +1,4 @@
-#Self-checkout Station
+# Self-checkout Station
 
 ![Alt text](https://i.imgur.com/eGhaige.png)
 
